@@ -37,12 +37,12 @@ $ npm start
 ## In Action
 High-fidelity prototypes by Becca Steinbrecher, designed for the next phase of development.
 <img width="405" height="803" alt="l1" src="https://github.com/user-attachments/assets/2ad8ada2-af4e-43d3-bb38-b537ce800abc" />
-<img width="408" height="808" alt="l7" src="https://github.com/user-attachments/assets/c09c0242-2f2f-442e-98eb-cfb0584c653c" />
-<img width="401" height="806" alt="l6" src="https://github.com/user-attachments/assets/e705eb43-2d53-45a4-80e6-aa68c86c21c7" />
+<img width="401" height="806" alt="l2" src="https://github.com/user-attachments/assets/9ff56caf-a5ad-464a-a964-7b42d74b7a95" />
 <img width="409" height="805" alt="l5" src="https://github.com/user-attachments/assets/32adaf2f-b521-400f-83e4-4b7115b69d9c" />
 <img width="398" height="813" alt="l4" src="https://github.com/user-attachments/assets/f8b15a88-e478-4bfb-aae8-6faa67feb460" />
 <img width="403" height="804" alt="l3" src="https://github.com/user-attachments/assets/e9bd9d9c-7c9a-4b6b-8692-656922757912" />
-<img width="401" height="806" alt="l2" src="https://github.com/user-attachments/assets/9ff56caf-a5ad-464a-a964-7b42d74b7a95" />
+<img width="408" height="808" alt="l7" src="https://github.com/user-attachments/assets/c09c0242-2f2f-442e-98eb-cfb0584c653c" />
+<img width="401" height="806" alt="l6" src="https://github.com/user-attachments/assets/e705eb43-2d53-45a4-80e6-aa68c86c21c7" />
 
 ## Wins
 - Connecting a hardware bluetooth piece to our application programmatically
